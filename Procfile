@@ -1,1 +1,1 @@
-worker: node Zira.js
+worker node Zira.js
